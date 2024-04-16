@@ -181,6 +181,12 @@ const jobs = [
     location: "Remote",
     url: "https://vercel.com/careers/software-engineer-turbopack-us-5022287004",
   },
+  {
+    title: "Rust Application Developer",
+    company: "Zed Industries",
+    location: "Remote",
+    url: "https://zed.dev/jobs/rust-application-engineer",
+  },
 ];
 
 function shuffle<T>(oldArray: T[]) {
